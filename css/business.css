@@ -1,0 +1,24 @@
+ a{
+    color: black;
+}
+.dropbtn{
+    color: black;
+}
+.container2 i,h4{
+    color: black;
+}
+.container2 .divc3 i{
+    background-color: white;
+}
+.borrow .btnreg a{
+color: white; background-color: black; padding: 10px; border-radius: 20px;
+}
+.borrow .content{
+    padding-bottom: 10px;
+}
+.borrow .content h1{
+    color: black;
+}
+.borrow .content h1 span{
+    color: rgb(76, 116, 15);
+}
